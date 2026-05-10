@@ -1,0 +1,1 @@
+This Folder Will contain the .xmodel file after Vitis AI compilation
